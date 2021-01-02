@@ -18,7 +18,8 @@ Went through the first course atleast thrice, since after completing the first t
 
 While understanding the first time, I ensured to make my own notes. I love One Note for this purpose, since you can paste screenshots and search for text which are in the screenshots too!
 
-While going through the course 2nd & 3rd time, I prepared an excel sheet that you will find in this repo, which contains a one liner of each item explained in this course. This is like a one stop shop to quickly glance for any info.
+
+While going through the course 2nd & 3rd time, I prepared a table here - [About_All_AWS_Services.pdf](https://github.com/rraghu214/aws-certified-cloud-practitioner/blob/main/About_All_AWS_Services.pdf) that you will find in this repo, which contains a one liner of each item explained in this course. This is like a one stop shop to quickly glance for any info.
 
 Despite work schedule I used to spend 3-4 hours on weekdays and close to 8 hours on the 2 weekends.
 
