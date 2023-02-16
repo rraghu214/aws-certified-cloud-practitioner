@@ -45,7 +45,10 @@ Mostly there were questions on,
 ### Certified
 ##### Got 958/1000
 
-![AWS-Certified.JPG](https://github.com/rraghu214/aws-certified-cloud-practitioner/blob/main/AWS-Certified.JPG?raw=true)
+<!-- ![AWS-Certified.JPG](https://github.com/rraghu214/aws-certified-cloud-practitioner/blob/main/AWS-Certified.JPG?raw=true) -->
+
+![AWS-Certified](https://user-images.githubusercontent.com/15065383/219455895-4d8ea6ad-cbbd-4ab5-9a21-3ef0c83220a3.JPG)
+
 
 
 #### All the best!
